@@ -1,2 +1,2 @@
-# alunos
-Repositório para meus alunos.
+# Alunos
+Repositório para meus alunos do Cebrac.
